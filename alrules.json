@@ -1,0 +1,31 @@
+{
+    "name": "RULES",
+    "description": "Erik's Rules",
+    "rules": [
+        {
+            "id": "AA0072",
+            "action": "Hidden",
+            "justification": "This is OK -> Don't need MS to dictate variable names."
+        },
+        {
+            "id": "AA0074",
+            "action": "Hidden",
+            "justification": "This is OK -> Don't need MS to dictate label names."
+        },
+        {
+            "id": "AA0021",
+            "action": "Hidden",
+            "justification": "This is OK -> Don't need sorted variables."
+        },
+        {
+            "id": "AA0215",
+            "action": "Hidden",
+            "justification": "This is OK -> I like my file names."
+        },
+        {
+            "id": "AA0232",
+            "action": "Hidden",
+            "justification": "This is OK -> This rule is not working."
+        }        
+    ]
+}

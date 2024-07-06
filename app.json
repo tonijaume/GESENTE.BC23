@@ -1,0 +1,33 @@
+{
+  "id": "7af813b1-384a-43a0-aa68-2970babfe1b3",
+  "name": "GESENTE-BC18",
+  "publisher": "Producciones Ente",
+  "version": "23.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "preprocessorSymbols": [ "CLEAN15", "CLEAN16", "CLEAN17", "CLEAN18", "CLEAN19" ] 
+}
