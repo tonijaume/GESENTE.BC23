@@ -29,5 +29,5 @@
   "features": [
     "NoImplicitWith"
   ],
-  "preprocessorSymbols": [ "CLEAN15", "CLEAN16", "CLEAN17", "CLEAN18", "CLEAN19" ] 
+  "preprocessorSymbols": [ "CLEAN17", "CLEAN18", "CLEAN19", "CLEAN20", "CLEAN21", "CLEAN22", "CLEAN23"] 
 }
