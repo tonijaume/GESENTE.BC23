@@ -183,6 +183,7 @@ table 50104 Asiento
         {
             Caption = 'Num. Participaciones';
             DataClassification = CustomerContent;
+            DecimalPlaces = 2 : 5;
         }
         field(24; "Valor unitario"; Decimal)
         {
