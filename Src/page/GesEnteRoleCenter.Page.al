@@ -238,6 +238,21 @@ page 50115 "GesEnte Role Center"
                     ApplicationArea = Basic, Suite;
                 }
             }
+            group(Importaciones)
+            {
+                action(ImportarBBVA)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Importar Excel BBVA';
+                    RunObject = page "BBVA Temporal importacion";
+                }
+                action(ImportarSantander)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Importar Excel Santander';
+                    RunObject = page "Santander Temporal importacion";
+                }
+            }
         }
     }
 
